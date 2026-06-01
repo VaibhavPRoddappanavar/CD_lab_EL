@@ -1,0 +1,14 @@
+# Dead Feature Detector - Requirements
+
+# System Requirements (Must be installed via system package manager)
+# ----------------------------------------------------------------
+# cmake >= 3.10
+# llvm >= 14.0 (includes clang++, llvm-profdata, llvm-cov)
+
+# Python Dependencies
+# ----------------------------------------------------------------
+# The project primarily uses standard library modules (os, sys, subprocess, re, glob, shutil, json).
+# No external pip packages are strictly required for the core logic, 
+# but the following are recommended for development and testing:
+
+pytest>=7.0.0

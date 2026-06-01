@@ -1,0 +1,30 @@
+__pycache__/
+docs/
+
+# IDE/Editor
+.vscode/
+
+# Build artifacts
+build/
+build_matrix/
+src/multi_build/
+scout_build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.slnx
+*.dir/
+TargetDirectories.txt
+InstallScripts.json
+
+# Profiling data
+*.profraw
+*.profdata
+
+# Python
+*.pyc
