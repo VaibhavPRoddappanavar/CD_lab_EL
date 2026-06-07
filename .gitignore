@@ -28,3 +28,5 @@ InstallScripts.json
 
 # Python
 *.pyc
+
+audit_report.md
