@@ -1,5 +1,13 @@
 # Dead Feature Detector for C/C++ Codebases
 
+## Demo Video
+
+<div align="center">
+  <video src="demo/CD_LAB_EL_Demo.mp4" controls="controls" style="max-width: 100%;">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 A whole-program analysis tool that identifies code regions guarded by preprocessor
 flags (`#ifdef`, `#ifndef`, `#if defined(...)`) that are unreachable across all
 realistic build configurations — beyond what normal compiler dead-code elimination
