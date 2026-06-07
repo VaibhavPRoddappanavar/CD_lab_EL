@@ -1,3 +1,0 @@
-- [ ] Task 1: Implement src/orchestrator.py
-- [ ] Task 2: Update src/main.py to use Orchestrator
-- [ ] Task 3: Integration Verification

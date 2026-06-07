@@ -30,3 +30,4 @@ InstallScripts.json
 *.pyc
 
 audit_report.md
+tasks.md
